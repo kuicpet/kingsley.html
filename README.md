@@ -5,5 +5,7 @@ article I wrote about creating documents with HTML
 
 Thanks to one of the sponsors of StartNg Pre-Internship 2019 training Program.
 <a href="https://twitter.com/kuicpet/status/1164208831150329856?s=09">Flutterwave</a>.
-# CSS was added to the CV
-# A Contact Form was added to the Cv
+# kinsley.CSS
+This repository was ehanced by adding CSS to it.A header navbar was added to make navigation to parts of the document easier.
+# A Contact Form
+A contact form added.
